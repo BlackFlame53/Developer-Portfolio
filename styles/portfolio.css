@@ -171,3 +171,10 @@ main section{
     text-align: center;
     margin-top: 50px;
 }
+/* footer section */
+footer{
+    display: flex;
+    padding: 130px 230px;
+    background-color: #FFF8F3;
+    margin-top: 100px
+}
